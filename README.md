@@ -1,5 +1,5 @@
 # BigdataR_docker
-Docker image of R packages to work with Big data
+Docker image of R packages to work with Big Data
 
 **Built on:** rocker/tidyverse:3.6.1
 
